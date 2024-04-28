@@ -21,7 +21,7 @@
 ![googlePay](https://img.shields.io/badge/-googlePay-000?&style=for-the-badge&logo=googlePay)
 ![googlePlayConsole](https://img.shields.io/badge/-GooglePlayConsole-000?&style=for-the-badge&logo=googlePlay)
 ![appleStore](https://img.shields.io/badge/-appleStore-000?&style=for-the-badge&logo=apple)
-![Localization](https://img.shields.io/badge/-Localization-000?&style=for-the-badge&logo=translation)
+![Localization](https://img.shields.io/badge/-internationalization-000?&style=for-the-badge&logo=translation)
 ![agoraSdk](https://img.shields.io/badge/-AgoraSDK-000?&style=for-the-badge&logo=agora)
 ![sockets.io](https://img.shields.io/badge/-sockets.io-000?&style=for-the-badge&logo=socekts)
 
