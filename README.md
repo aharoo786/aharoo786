@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Tufail+Khan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Abdullah+Akram)](https://git.io/typing-svg)
 
 ## Stacks
 
