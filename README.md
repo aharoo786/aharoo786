@@ -50,10 +50,10 @@
 <h2>Contact Me</h2>
 <div align="center">
 <div>
-  <a href="https://www.linkedin.com/in/wajeeh-ul-hassan-5b81421bb/">
+  <a href="https://www.linkedin.com/in/abdullah-akram-aaa81122a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="mailto:wajeeh.ch1@gmail.com">
+    <a href="mailto:abdullahakrambwn@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   </div>
