@@ -6,7 +6,7 @@
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 
-![Flutter](https://img.shields.io/badge/-node.js-000?&style=for-the-badge&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&style=for-the-badge&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-express-000?&style=for-the-badge&logo=dart)
 ![Node.js](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=node.js)
 ![mysql](https://img.shields.io/badge/-mysql-000?&style=for-the-badge&logo=mysql)
