@@ -6,9 +6,9 @@
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 
-![node.js](https://img.shields.io/badge/-node.js-000?&style=for-the-badge&logo=node.js)
-![express.js](https://img.shields.io/badge/-express-000?&style=for-the-badge&logo=express)
-![javascript](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/-node.js-000?&style=for-the-badge&logo=Flutter)
+![Dart](https://img.shields.io/badge/-express-000?&style=for-the-badge&logo=dart)
+![Node.js](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=node.js)
 ![mysql](https://img.shields.io/badge/-mysql-000?&style=for-the-badge&logo=mysql)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
 ![stripe](https://img.shields.io/badge/-stripe-000?&style=for-the-badge&logo=stripe)
