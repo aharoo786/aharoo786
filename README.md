@@ -18,11 +18,11 @@
 ![Google Maps](https://img.shields.io/badge/-GoogleMaps-000?&style=for-the-badge&logo=googleMaps)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![ApplePay](https://img.shields.io/badge/-applePay-000?&style=for-the-badge&logo=applePay)
-![googlePay](https://img.shields.io/badge/-googlePay-000?&style=for-the-badge&logo=googlePay)
-![googlePlayConsole](https://img.shields.io/badge/-GooglePlayConsole-000?&style=for-the-badge&logo=googlePlay)
-![appleStore](https://img.shields.io/badge/-appleStore-000?&style=for-the-badge&logo=apple)
+![googlePay](https://img.shields.io/badge/-google%20Pay-000?&style=for-the-badge&logo=googlePay)
+![googlePlayConsole](https://img.shields.io/badge/-Google%20Play%20Console-000?&style=for-the-badge&logo=googlePlay)
+![appleStore](https://img.shields.io/badge/-apple%20Store-000?&style=for-the-badge&logo=apple)
 ![Localization](https://img.shields.io/badge/-internationalization-000?&style=for-the-badge&logo=translation)
-![agoraSdk](https://img.shields.io/badge/-AgoraSDK-000?&style=for-the-badge&logo=agora)
+![agoraSdk](https://img.shields.io/badge/-Agora%20SDK-000?&style=for-the-badge&logo=agora)
 ![sockets.io](https://img.shields.io/badge/-sockets.io-000?&style=for-the-badge&logo=socekts)
 
 
