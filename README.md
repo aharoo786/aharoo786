@@ -7,15 +7,15 @@
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&style=for-the-badge&logo=Flutter)
-![Dart](https://img.shields.io/badge/-express-000?&style=for-the-badge&logo=dart)
+![Dart](https://img.shields.io/badge/-Dart-000?&style=for-the-badge&logo=dart)
 ![Node.js](https://img.shields.io/badge/-javascript-000?&style=for-the-badge&logo=node.js)
-![mysql](https://img.shields.io/badge/-mysql-000?&style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=firebase)
 ![mongodb](https://img.shields.io/badge/-mongodb-000?&style=for-the-badge&logo=mongodb)
 ![stripe](https://img.shields.io/badge/-stripe-000?&style=for-the-badge&logo=stripe)
 ![json](https://img.shields.io/badge/-json-000?&style=for-the-badge&logo=json)
 ![git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
-![linux](https://img.shields.io/badge/-linux-000?&style=for-the-badge&logo=linux)
+![Google Maps](https://img.shields.io/badge/-GoogleMaps-000?&style=for-the-badge&logo=googleMaps)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![react](https://img.shields.io/badge/-react-000?&style=for-the-badge&logo=react)
 ![typescript](https://img.shields.io/badge/-typescript-000?&style=for-the-badge&logo=typescript)
