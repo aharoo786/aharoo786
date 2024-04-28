@@ -17,7 +17,7 @@
 ![npm](https://img.shields.io/badge/-npm-000?&style=for-the-badge&logo=npm)
 ![Google Maps](https://img.shields.io/badge/-Google%20Maps-000?&style=for-the-badge&logo=googleMaps)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
-![ApplePay](https://img.shields.io/badge/-applePay-000?&style=for-the-badge&logo=applePay)
+![ApplePay](https://img.shields.io/badge/-apple%20Pay-000?&style=for-the-badge&logo=applePay)
 ![googlePay](https://img.shields.io/badge/-google%20Pay-000?&style=for-the-badge&logo=googlePay)
 ![googlePlayConsole](https://img.shields.io/badge/-Google%20Play%20Console-000?&style=for-the-badge&logo=googlePlay)
 ![appleStore](https://img.shields.io/badge/-apple%20Store-000?&style=for-the-badge&logo=apple)
