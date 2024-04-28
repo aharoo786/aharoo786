@@ -23,7 +23,7 @@
 ![appleStore](https://img.shields.io/badge/-apple%20Store-000?&style=for-the-badge&logo=apple)
 ![Localization](https://img.shields.io/badge/-internationalization-000?&style=for-the-badge&logo=translation)
 ![agoraSdk](https://img.shields.io/badge/-Agora%20SDK-000?&style=for-the-badge&logo=agora)
-![sockets.io](https://img.shields.io/badge/-sockets.io-000?&style=for-the-badge&logo=socekts)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket-dot-io&logoColor=white)](https://socket.io/)
 
 
 ### Tools :hammer_and_pick:
